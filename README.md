@@ -1,4 +1,4 @@
-## Olá, sou o Gabriel Marchese, estou aprendendo programação;
+## Olá, sou o Gabriel Marchese, estou aprendendo front-end
 <div align="center">
   <a href="https://github.com/Zirows">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zirows&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
