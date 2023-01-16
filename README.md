@@ -1,4 +1,4 @@
-## Olá, sou o Gabriel Marchese, estou aprendendo front-end
+## Olá, sou o Gabriel Marchese, estou estudando desenvolvimento web na Trybe.
 <div align="center">
   <a href="https://github.com/gabriel-marchese">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-marchese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
