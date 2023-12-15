@@ -20,3 +20,7 @@
   <a href="https://www.linkedin.com/in/gabriel-marchese/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+<div>
+  <p>Olá, meu nome é Gabriel, tenho 22 anos sou formado em engenharia mecatrônica, mas durante a faculdade conhecia programação e decidi que gostaria de trabalhar com isso pois é algo que gosto muito.
+Atualmente estudo desenvolvimento web na Trybe, e estou em busca da minha primeira oportunidade de trabalhar como dev.</p>
+</div>
