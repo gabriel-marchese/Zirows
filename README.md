@@ -21,7 +21,8 @@
 
 </div>
 <div>
-  <p>Sou formado em engenharia mecatrônica, pela FIAP, e atualmente estou estudando desenvolvimento web na trybe.</p>
+  <p>Olá, Tenho 22 anos sou formado em engenharia mecatrônica, mas durante a faculdade conhecia programação e decidi que gostaria de trabalhar com isso pois é algo que gosto muito.
+Atualmente estudo desenvolvimento web na Trybe, e estou em busca da minha primeira oportunidade de trabalhar como dev.</p>
   <p>Conhecimento em front-end atuando como principais tecnologias o React.js e JavaScript.</p>
   <p>Conhecimento em Back-end atuando como principais tecnologias o Node.js, MySql e TypeScript.</p>
   <p>Conhecimento em desenvolvimento de API's pelo padrão API Rest.</p>
