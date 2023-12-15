@@ -13,7 +13,7 @@
   
   ##
  
-<div> 
+<div style="display: flex; justify-content: space-around"> 
  
   <a href="https://gabriel-marchese.github.io/projeto-portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-%23E4405F?style=for-the-badge" target="_blank"></a>
   <a href = "mailto:gabriel.marchese2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,6 +21,8 @@
 
 </div>
 <div>
-  <p>Olá, meu nome é Gabriel, tenho 22 anos sou formado em engenharia mecatrônica, mas durante a faculdade conhecia programação e decidi que gostaria de trabalhar com isso pois é algo que gosto muito.
-Atualmente estudo desenvolvimento web na Trybe, e estou em busca da minha primeira oportunidade de trabalhar como dev.</p>
+  <p>Sou formado em engenharia mecatrônica, pela FIAP, e atualmente estou estudando desenvolvimento web na trybe.</p>
+  <p>Conhecimento em front-end atuando como principais tecnologias o React.js e JavaScript.</p>
+  <p>Conhecimento em Back-end atuando como principais tecnologias o Node.js, MySql e TypeScript.</p>
+  <p>Conhecimento em desenvolvimento de API's pelo padrão API Rest.</p>
 </div>
